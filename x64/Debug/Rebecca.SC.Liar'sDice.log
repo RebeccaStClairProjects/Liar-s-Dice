@@ -1,0 +1,9 @@
+﻿  LDGameLoop.cpp
+C:\Users\rebec\source\repos\Rebecca.SC.Liar'sDice\Dice.h(35,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rebec\source\repos\Rebecca.SC.Liar'sDice\LDGameLoop.cpp(293,30): warning C4101: 'e': unreferenced local variable
+  Player.cpp
+  Liar'sDice.cpp
+C:\Users\rebec\source\repos\Rebecca.SC.Liar'sDice\Dice.h(35,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\rebec\source\repos\Rebecca.SC.Liar'sDice\Dice.h(56): warning C4172: returning address of local variable or temporary: playerDice
+  Rebecca.SC.Liar'sDice.vcxproj -> C:\Users\rebec\source\repos\Rebecca.SC.Liar'sDice\x64\Debug\Rebecca.SC.Liar'sDice.exe
