@@ -148,7 +148,9 @@ project/
 <h2 id="about-developer">About the Developer</h2>
 <p><b>Rebecca St. Clair</b><br>
 🎓 <i>Computer Science Student | Aspiring Software Engineer | Writer</i><br>
-Passionate about combining creativity and logic—whether through elegant C++ design or imaginative storytelling. This project reflects an ongoing focus on object-oriented architecture, maintainable systems, and practical application of core CS principles.</p>
+<p><i>“Bringing imagination and engineering together — one line of code at a time.”</i></p>
+
+<p>Self-starter and detail-oriented software engineer in training, passionate about combining creativity and logic to design systems that are both functional and meaningful. I learn by doing — building each project piece by piece, debugging relentlessly, and improving through curiosity and persistence. My focus is on writing clean, approachable code, developing maintainable systems, and transforming complex ideas into clear, user-centered experiences that make technology feel transparent and empowering.</p>
 
 <p>
 <a href="https://github.com/RebeccaStClairProjects"><img src="https://img.shields.io/badge/Portfolio-RebeccaStClairProjects-blue" alt="Portfolio Badge"></a><br>
