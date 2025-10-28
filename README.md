@@ -152,7 +152,7 @@ Passionate about combining creativity and logic—whether through elegant C++ de
 
 <p>
 <a href="https://github.com/RebeccaStClairProjects"><img src="https://img.shields.io/badge/Portfolio-RebeccaStClairProjects-blue" alt="Portfolio Badge"></a><br>
-<a href="https://www.linkedin.com/in/rebecca-stclair/"><img src="https://img.shields.io/badge/LinkedIn-RebeccaStClair-blue?logo=linkedin" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/rebecca-st-clair-553225236/"><img src="https://img.shields.io/badge/LinkedIn-RebeccaStClair-blue?logo=linkedin" alt="LinkedIn Badge"></a>
 </p>
 
 <hr>
