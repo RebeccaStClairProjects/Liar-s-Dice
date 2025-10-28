@@ -3,7 +3,7 @@ Liar’s Dice (C++ / Visual Studio)
 A console implementation of Liar’s Dice, focused on clean object-oriented design and a testable game loop. Built in modern C++ with a Visual Studio solution for quick setup.
 Who this is for: Reviewers of my internship portfolio and peers interested in object-oriented game architecture in C++.
 ________________________________________
-Table of Contents
+Table of Contents <br>
 •	Overview
 •	Game Rules (Brief)
 •	Architecture
